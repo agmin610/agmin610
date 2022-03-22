@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @agmin
-- 👀 I’m interested in network, systems.
+- 👋 Hi, I’m @gmin
+- 👀 I’m interested in network, systems
 - 🌱 I’m currently learning network, systems
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me m.me/htinagmin
